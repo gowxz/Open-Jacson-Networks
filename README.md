@@ -64,6 +64,6 @@ else:
 print("----------------------------------------------------------------------")
 
 ## Output
-![j2](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/6805b552-88b9-4528-895a-481778f7daf6)
+![280449150-ddaddd8f-f0e0-4573-8592-55278889542b](https://github.com/PriyankaAnnadurai/Open-Jacson-Networks/assets/118351569/2a38a741-ddc1-4d6c-b6b8-5a2289769ac8)
 
 ## Result
